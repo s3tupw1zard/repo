@@ -1,0 +1,50 @@
+Package: teamspeak6-client
+Source: teamspeak6-client
+Version: 6.0.0-beta2-1
+Architecture: amd64
+Maintainer: Manuel Merkl (s3tupw1zard) <manuel.merkl@icloud.com>
+Installed-Size:
+Depends:
+Homepage: https://github.com/s3tupw1zard/TeamSpeak6-Client-deb
+Priority: optional
+Section: non-free/net
+Filename: pool/main/t/teamspeak6-client/teamspeak6-client_6.0.0-beta2-1_amd64.deb
+Size: 15512
+SHA256: b40dbc70db148a3758ac89958cdde032ad58b62daeda736ce65a6e8bb7c8d147
+SHA1: c30fc61ebbe485cea182526388c90e6c35f4624c
+MD5sum: b3f2901a85b7d25da2590421d825bcd3
+Description: VoIP chat for online gaming
+ TeamSpeak is a quality, scalable application which enables people to speak
+ with one another over the Internet. TeamSpeak consists of both client and
+ server software. The server acts as a host to multiple client connections,
+ capable of handling literally thousands of simultaneous users. This results
+ in an Internet based teleconferencing solution that works in a variety of
+ applications such as team mates speaking with one another while playing
+ their favorite online game, small businesses cutting costs on long distance
+ charges, or for personal communication with friends and family.
+ .
+ This package contains the graphical TeamSpeak6 Beta client.
+
+Package: zsh-autosuggestions
+Version: 0.7.1-1
+Architecture: all
+Maintainer: Mo Zhou <lumin@debian.org>
+Installed-Size: 43
+Depends: zsh
+Enhances: zsh
+Homepage: https://github.com/zsh-users/zsh-autosuggestions
+Priority: optional
+Section: shells
+Filename: pool/main/z/zsh-autosuggestions/zsh-autosuggestions_0.7.1-1_all.deb
+Size: 14680
+SHA256: 31570648e2dfd95ffb14e7d77be91050be48f90818a8b2f055827b803ed11a2a
+SHA1: 71f2b6ad98a7a7655cebb2b046e87a3be454a1e1
+MD5sum: 8c3366d723275d1bfadbe8099b4328d7
+Description: Fish-like fast/unobtrusive autosuggestions for zsh
+ As you type commands, you will see a completion offered after the cursor
+ in a muted gray color. If you press the right-arrow key or End with the
+ cursor at the end of the buffer, it will accept the suggestion, replacing
+ the contents of the command line buffer with the suggestion. If you invoke
+ the forward-word widget, it will partially accept the suggestion up to the
+ point that the cursor moves to.
+
