@@ -1,19 +1,19 @@
 Origin: s3tupw1zard.github.io/repo/noble
 Label: s3tupw1zard.github.io/repo/noble
 Codename: noble
-Date: Sun, 26 Jan 2025 15:21:48 UTC
+Date: Sun, 26 Jan 2025 15:39:34 UTC
 Architectures: amd64
 Components: main
 Description: s3tupw1zard's Ubuntu 24.04 Noble Numbat Repo
 MD5Sum:
- 56e2b79957099001866c772a4f13d50c 2211 main/binary-amd64/Packages
- 2a2cc2a036a9e7576ed960700af86fbf 1176 main/binary-amd64/Packages.gz
+ 04c2b670960e741cc9f15ffc4d533ef1 2216 main/binary-amd64/Packages
+ 114a360694b20fd92e9605bf0f52ab8f 1180 main/binary-amd64/Packages.gz
  f555f2660b094cc0b2fa567f04ba9d4f 175 main/binary-amd64/Release
 SHA1:
- cb99cc1640e51c281a0a906b362e1a597b57f389 2211 main/binary-amd64/Packages
- 3d196323e6cfbdec632d9db7c105f3a5141778f1 1176 main/binary-amd64/Packages.gz
+ 99772ffd683b6eb6f7ae9188376711ef8ce3fde9 2216 main/binary-amd64/Packages
+ 556bb7dc3a00a04ff5b41532709d297cc3b1135e 1180 main/binary-amd64/Packages.gz
  f3f3074c3dc0c596a88af5bc16080ced838703a1 175 main/binary-amd64/Release
 SHA256:
- 6c288a170075a3bba813b10cbdef1a14df0ae82f84275c538a8d0901833a0cc3 2211 main/binary-amd64/Packages
- e051f876cb740aca879b979922644f63a45f0722110baa49dc1bf56347cc4ff9 1176 main/binary-amd64/Packages.gz
+ 9deeef7b7be6b2a776f726b7e5fbef6d01ae0fc05c8a1ae49bfadf51eff2be51 2216 main/binary-amd64/Packages
+ 54ca2d86299262b09d3871a8ddcccc01330eef82f1296eafb5cc2dd35ab8d163 1180 main/binary-amd64/Packages.gz
  c4eefaab44a22cedc10b5b578cd45262b879e28c41db5c3952b60fc0841db237 175 main/binary-amd64/Release

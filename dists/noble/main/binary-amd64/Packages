@@ -1,18 +1,18 @@
 Package: teamspeak6-client
 Source: teamspeak6-client
-Version: 6.0.0-beta2-1
+Version: 6.0.0-beta2-2
 Architecture: amd64
 Maintainer: Manuel Merkl (s3tupw1zard) <manuel.merkl@icloud.com>
 Installed-Size:
-Depends:
+Depends: menu
 Homepage: https://github.com/s3tupw1zard/TeamSpeak6-Client-deb
 Priority: optional
 Section: non-free/net
-Filename: pool/main/t/teamspeak6-client/teamspeak6-client_6.0.0-beta2-1_amd64.deb
-Size: 15512
-SHA256: b40dbc70db148a3758ac89958cdde032ad58b62daeda736ce65a6e8bb7c8d147
-SHA1: c30fc61ebbe485cea182526388c90e6c35f4624c
-MD5sum: b3f2901a85b7d25da2590421d825bcd3
+Filename: pool/main/t/teamspeak6-client/teamspeak6-client_6.0.0-beta2-2_amd64.deb
+Size: 27110
+SHA256: 01f163a9d8df3c178be93dd92dae48c6f86f490cf34b7a096b9eaa38f4a79fd9
+SHA1: 26a55e932c44adedf40dc00eed4c556c5d68afae
+MD5sum: 2e503b04ca47204cd41f213ea287b515
 Description: VoIP chat for online gaming
  TeamSpeak is a quality, scalable application which enables people to speak
  with one another over the Internet. TeamSpeak consists of both client and

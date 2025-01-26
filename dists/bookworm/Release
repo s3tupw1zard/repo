@@ -1,19 +1,19 @@
 Origin: s3tupw1zard.github.io/repo/bookworm
 Label: s3tupw1zard.github.io/repo/bookworm
 Codename: bookworm
-Date: Sun, 26 Jan 2025 15:21:35 UTC
+Date: Sun, 26 Jan 2025 15:39:25 UTC
 Architectures: amd64
 Components: main
 Description: s3tupw1zard's Debian 12 Bookworm epo
 MD5Sum:
- 56e2b79957099001866c772a4f13d50c 2211 main/binary-amd64/Packages
- 2a2cc2a036a9e7576ed960700af86fbf 1176 main/binary-amd64/Packages.gz
+ 04c2b670960e741cc9f15ffc4d533ef1 2216 main/binary-amd64/Packages
+ 114a360694b20fd92e9605bf0f52ab8f 1180 main/binary-amd64/Packages.gz
  0bd7d55d57a65cb56aa7e918f24534a6 173 main/binary-amd64/Release
 SHA1:
- cb99cc1640e51c281a0a906b362e1a597b57f389 2211 main/binary-amd64/Packages
- 3d196323e6cfbdec632d9db7c105f3a5141778f1 1176 main/binary-amd64/Packages.gz
+ 99772ffd683b6eb6f7ae9188376711ef8ce3fde9 2216 main/binary-amd64/Packages
+ 556bb7dc3a00a04ff5b41532709d297cc3b1135e 1180 main/binary-amd64/Packages.gz
  7d531d5107caceb6ed75b872b2662912c5151623 173 main/binary-amd64/Release
 SHA256:
- 6c288a170075a3bba813b10cbdef1a14df0ae82f84275c538a8d0901833a0cc3 2211 main/binary-amd64/Packages
- e051f876cb740aca879b979922644f63a45f0722110baa49dc1bf56347cc4ff9 1176 main/binary-amd64/Packages.gz
+ 9deeef7b7be6b2a776f726b7e5fbef6d01ae0fc05c8a1ae49bfadf51eff2be51 2216 main/binary-amd64/Packages
+ 54ca2d86299262b09d3871a8ddcccc01330eef82f1296eafb5cc2dd35ab8d163 1180 main/binary-amd64/Packages.gz
  6d0f2dc138cb8527194367810d8eb06ced842054ce572f2742231ae5edbb6364 173 main/binary-amd64/Release
